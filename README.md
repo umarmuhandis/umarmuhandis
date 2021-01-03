@@ -72,12 +72,12 @@
 
 </details> -->
 
-<!-- <details>
+<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Omar's GitHub Stats" src="https://github-readme-stats.shoxruxpro.vercel.app/api?username=shoxruxpro&show_icons=true&hide_border=true" />
 
-</details> -->
+</details>
 
 [twitter]: https://twitter.com/shoxruxpro
 [instagram]: https://instagram.com/shohruxpro
