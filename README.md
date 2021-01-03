@@ -10,6 +10,7 @@
 - 🥅 2021 Goals: Reading 36 books, contributing more to Open Source projects and many more!
 - 💑 Marital status: Single
 - 📅 Birth date: 08.08.2001
+- ⚡ Fun fact: I've got two names so far 😆
 
 
 ### Explore me:
