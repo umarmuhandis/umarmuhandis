@@ -1,7 +1,7 @@
 ### Hello world, I'm Omar 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://omar.pro) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/shoxruxpro?color=green&label=Follow%20%40shoxruxpro&logoColor=blue&style=for-the-badge)](https://twitter.com/umarmuhandis)
+[![Twitter Follow](https://img.shields.io/twitter/follow/umarmuhandis?color=green&label=Follow%20%40shoxruxpro&logoColor=blue&style=for-the-badge)](https://twitter.com/umarmuhandis)
 
 ## I'm a Software Engineer, Careful Risk-taker, Proactive Volunteer, and Teacher!
 
@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Reading 36 books, contributing more to Open Source projects and many more!
 - 💑 Marital status: Single
 - 📅 Birth date: 08.08.2001
-- ⚡ Fun fact: I've got two names so far 😆
+- ⚡ Fun fact: I don't play video games, honestly, never 😁
 
 
 ### Explore me:
