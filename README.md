@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Reading 36 books, contributing more to Open Source projects and many more!
 - 💑 Marital status: Single
 - 📅 Birth date: 08.08.2001
-- ⚡ Fun fact: I don't play video games, honestly, never 😁
+- ⚡ Fun fact: I don't play video games, I don't use Instagram, honestly 😁
 
 
 ### Explore me:
