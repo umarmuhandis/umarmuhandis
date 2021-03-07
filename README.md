@@ -1,7 +1,7 @@
 ### Hello world, I'm Omar 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://omar.pro) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/shoxruxpro?color=green&label=Follow%20%40shoxruxpro&logoColor=blue&style=for-the-badge)](https://twitter.com/shoxruxpro)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shoxruxpro?color=green&label=Follow%20%40shoxruxpro&logoColor=blue&style=for-the-badge)](https://twitter.com/umarmuhandis)
 
 ## I'm a Software Engineer, Careful Risk-taker, Proactive Volunteer, and Teacher!
 
