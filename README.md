@@ -1,6 +1,5 @@
 ### Hello world, I'm Omar 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://omar.pro) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/umarmuhandis?color=green&label=Follow%20%40umarmuhandis&logoColor=blue&style=for-the-badge)](https://twitter.com/umarmuhandis)
 
 ## I'm a Software Engineer, Careful Risk-taker, Proactive Volunteer, and Teacher!
@@ -31,7 +30,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <!-- <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /> -->
 <!-- <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
-<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> --
 <!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
 <!-- <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
 <!-- <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
@@ -43,37 +42,10 @@
 <br />
 <br />
 
----
-
-<!-- ### 📺 Latest YouTube Videos -->
-
-<!-- YOUTUBE:START -->
-<!-- - ["Glassmorphism" Frosted Glass Credit Card Form with Validation | HTML, CSS, JavaScript](https://www.youtube.com/watch?v=jEa9YyRqE1U)
-- [STOP Declaring IDs!?! JavaScript Global Variables Best Practices](https://www.youtube.com/watch?v=cve1gYV7jWk)
-- [This is ALL you NEED to Become a Web Developer Today (2021)](https://www.youtube.com/watch?v=LTwFX-hitQo)
-- [Top VS Code Updates | Last 2020 Update | v1.52 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=dgOu1Y9xl5k)
-- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/watch?v=3tG1jUQbuSI) -->
-<!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
-
-
-
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
+--
 
 ### Github Stats
-![Omar's github stats](https://github-readme-stats.vercel.app/api?username=shoxruxpro&show_icons=true&theme=radical)
+![Omar's github stats](https://github-readme-stats.vercel.app/api?username=umarmuhandis&show_icons=true&theme=radical)
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
@@ -82,7 +54,7 @@
 
 </details> -->
 
-[twitter]: https://twitter.com/shoxruxpro
-[instagram]: https://instagram.com/shohruxpro
-[linkedin]: https://linkedin.com/in/shoxruxpro
+[twitter]: https://twitter.com/umarmuhandis
+[instagram]: https://instagram.com/umarmuhandis
+[linkedin]: https://linkedin.com/in/umarmuhandis
 
