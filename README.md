@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer, Careful Risk-taker, Proactive Volunteer, and Teacher!
 
-- 📚 I recently started my blog on [telegram](https://t.me/hacklashamiz), and soon I am about to launch my website too!
+- 📚 I recently started my blog on [telegram](https://t.me/umarmuhandis), and soon I am about to launch my website too!
 - 🔭 I'm currently learning backend technologies
 - 🥅 2021 Goals: Reading 36 books, contributing more to Open Source projects and many more!
 - 💑 Marital status: Single
