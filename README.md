@@ -1,8 +1,8 @@
-### Hello world, I'm Omar 👋
+### Hello world, I'm Umar 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/umarmuhandis?color=green&label=Follow%20%40umarmuhandis&logoColor=blue&style=for-the-badge)](https://twitter.com/umarmuhandis)
 
-## I'm a Software Engineer, careful risk-taker, proactive Volunteer, and a teacher!
+## I'm a Software Engineer, careful risk-taker, proactive volunteer, and a teacher!
 
 - 📚 I recently started my blog on [telegram](https://t.me/umarmuhandis), and soon I am about to launch my website too!
 - 🔭 I'm currently learning backend technologies
@@ -39,12 +39,6 @@
 ### Github Stats
 ![Omar's github stats](https://github-readme-stats.vercel.app/api?username=umarmuhandis&show_icons=true&theme=radical)
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Omar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shoxruxpro&show_icons=true&hide_border=true&theme=radical" />
-
-</details> -->
 
 [twitter]: https://twitter.com/umarmuhandis
 [instagram]: https://instagram.com/umarmuhandis
