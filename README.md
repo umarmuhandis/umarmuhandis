@@ -4,8 +4,7 @@
 
 ## I'm a Software Engineer, careful risk-taker, proactive volunteer, and a teacher!
 
-- 📚 I recently started my blog on [telegram](https://t.me/umarmuhandis), and soon I am about to launch my website too!
-- 🔭 I'm currently learning backend technologies
+- 📚 I recently started my blog on [hashnode](https://umarmuhandis.uz). Definitely check it out!
 - 🥅 2022 Goals: Reading 36 books, contributing more to Open Source projects and many more!
 - 💑 Marital status: Single
 - ⚡ Fun fact: I don't play video games, I don't use Instagram, honestly 😁
