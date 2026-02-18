@@ -8,8 +8,6 @@ Building things.
 
 **Country Last Letter** — Telegram mini app
 
-**Eidy** — Eid Box telegram mini app
-
 ## Reach
 
 [Twitter](https://twitter.com/umarmuhandis) · [LinkedIn](https://linkedin.com/in/umarmuhandis)
